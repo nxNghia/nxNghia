@@ -5,4 +5,3 @@ I am Nguyen Xuan Nghia from Vietnam.
 - 🧠 Also interested in Machine Learning
 - 📪 nghia1421999@gmail.com
 - 😅 my Vietnamese name might pretty hard to pronounce, so just call me Na for short
-- 🐱 prefer cat
