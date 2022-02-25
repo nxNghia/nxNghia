@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Roboto:wght@300&display=swap');
+
+html {
+    min-height: 100vh;
+}
+
+body
+{
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(180deg, rgba(238,252,255,1) 50%, rgba(244,255,211,1) 100%);
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: linear-gradient(180deg, rgba(238,252,255,1) 50%, rgba(244,255,211,1) 100%); 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 999px;
+}
