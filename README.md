@@ -1,5 +1,5 @@
-## Hi, I'm Nguyen Xuan Nghia
-- 😊Hanoi, Vietnam 🇻🇳.
+## Hi, I'm Nguyen Xuan Nghia 😺 🐯
+- Hanoi, Vietnam 🇻🇳.❤️
 - [Hanoi University of Science and Technology](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology) (2018-now) 🤘🤘🤘
 - Currently work as remote Front-end intern at [Sun*](https://sun-asterisk.vn/) ✨✨
 - Call me Nah for short 😉
